@@ -1,0 +1,9 @@
+./cache
+./physical_printer
+./shapes
+./sla_material
+./sla_print
+./ui_layout
+./vendor
+./SuperSlicer.ini
+./SuperSlicer.ini.bak
