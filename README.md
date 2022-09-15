@@ -6,7 +6,7 @@ Default Windows path for configuration: `~/AppData/Roaming/SuperSlicer`
 Recommend symbolic link for easy navigation. Eg:
 
 ``` cmd
-mklink /D "../git/slicer-config" "../AppData/Roaming/SuperSlicer"
+mklink /D "../git/slicer-profiles" "../AppData/Roaming/SuperSlicer"
 ```
 
  
