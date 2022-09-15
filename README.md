@@ -9,3 +9,4 @@ Recommend symbolic link for easy navigation. Eg:
 mklink /D "../git/slicer-config" "../AppData/Roaming/SuperSlicer"
 ```
 
+ 
