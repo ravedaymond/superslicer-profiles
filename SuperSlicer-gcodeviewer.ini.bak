@@ -20,7 +20,7 @@ use_free_camera = 0
 use_legacy_3DConnexion = 0
 use_perspective_camera = 1
 version = 2.5.59.0
-window_mainframe = -8; -8; 2576; 1408; 1
+window_mainframe = 138; 105; 2376; 1114; 0
 
 [filaments]
 123-3D Jupiter PLA @CREALITY = 1
@@ -48,6 +48,6 @@ Real Filament PLA @CREALITY = 1
 Velleman PLA @CREALITY = 1
 
 [recent_projects]
-1 = C:\Users\hello\Desktop\X Gantry Cable Guide_23m_0.28}mm_205C_PLA_ENDER3V2.gcode
+1 = D:\ROG GPU Support\ROG GPU support pad_43m_0.10}mm_210C_PLA_ENDER2PRO.gcode
 
-# MD5 checksum 3049C99CCCE613DE8BAA5C3CCD2FD55E
+# MD5 checksum 4564089D9E50D314E305AA37820AE59F
